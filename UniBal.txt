@@ -1,0 +1,116 @@
+Balócí Ábénk (Balochi Alphabet - UniBal):
+===========================
+
+A a Á á B b C c D d Đ đ Ḓ ḓ E e É é G g Ǵ ǵ H h I i Í í J j K k Ḱ ḱ L l M m N n Ń ń O o Ó ó P p Ṕ ṕ R r Ŕ ŕ S s Ś ś T t Ŧ ŧ Ṱ ṱ U u Ú ú W w Ẃ ẁ Y y Z z Ź ź
+
+SMALL:
+---
+
+aábcdđḓeégǵhiíjkḱlmnńoópṕrŕsśtŧṱuúwẁyzź
+
+CAPS:
+---
+
+AÁBCDĐḒEÉGǴHIÍJKḰLMNŃOÓPṔRŔSŚTŦṰUÚWẀYZŹ
+
+VOWELS:
+---
+
+aáeéiíoóuú
+
+CONSONANTS:
+---
+
+bcdđḓgǵhjkḱlmnńpṕrŕsśtŧṱwẁyzź
+
+
+CHAR	HEX
+-------------
+A		0041
+a		0061
+Á		00C1
+á		00E1
+B		0042
+b		0062
+C		0043
+c		0063
+D		0044
+d		0064
+Đ		0110
+đ		0111
+Ḓ		1E12
+ḓ		1E13
+E		0045
+e		0065
+É		00C9
+é		00E9
+G		0047
+g		0067
+Ǵ		01F4
+ǵ		01F5
+H		0048
+h		0068
+I		0049
+i		0069
+Í		00CD
+í		00ED
+J		004A
+j		006A
+K		004B
+k		006B
+Ḱ		1E30
+ḱ		1E31
+L		004C
+l		006C
+M		004D
+m		006D
+N		004E
+n		006E
+Ń		0143
+ń		0144
+O		004F
+o		006F
+Ó		00D3
+ó		00F3
+P		0050
+p		0070
+Ṕ		1E54
+ṕ		1E55
+R		0052
+r		0072
+Ŕ		0154
+ŕ		0155
+S		0053
+s		0073
+Ś		015A
+ś		015B
+T		0054
+t		0074
+Ŧ		0166
+ŧ		0167
+Ṱ		1E70
+ṱ		1E71
+U		0055
+u		0075
+Ú		00DA
+ú		00FA
+W		0057
+w		0077
+Ẃ		1E82
+ẁ		1E81
+Y		0059
+y		0079
+Z		005A
+z		007A
+Ź		0179
+ź		017A
+
+
+NOT USED
+
+Ḋ	1E0A
+ḋ	1E0B
+Ṙ/Ɍ	1E58/024C
+ṙ/ɍ	1E59/024D
+Ṫ	1E6A
+ṫ	1E6B
