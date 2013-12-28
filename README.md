@@ -6,4 +6,5 @@ Univarsal Balochi, UniBal for short is a writing system we have developed to sol
 Contributors
 ---
 
-@Ahmed_Yaqoub, http://tajbaloch.wordpress.com/
+- @Ahmed_Yaqoub 
+- http://tajbaloch.wordpress.com/
