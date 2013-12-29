@@ -18,11 +18,11 @@ Windows Keyboard Screenshots
 
 ![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBal.jpg "Windows Keyboard Default State")
 
-![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBalShift.jpg "Windows Keyboard Shift State")
+![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBalShft.jpg "Windows Keyboard Shift State")
 
 ![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBalAltGr.jpg "Windows Keyboard AltGr/Left Ctl+Alt/[ State")
 
-![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBalShiftAltGr.jpg "Windows Keyboard Shift AltGr/Left Ctl+Alt/[ State")
+![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBalShftAltGr.jpg "Windows Keyboard Shift AltGr/Left Ctl+Alt/[ State")
 
 Contributors
 ---
