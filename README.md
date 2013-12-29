@@ -8,12 +8,21 @@ Keyboard Layouts
   We have also created a keyboard layout for UniBal.
   
 - Windows ([Available](https://github.com/JeyKeu/UniBal/releases/tag/v1.1))
-  - ![Windows Keyboard](https://github.com/JeyKeu/UniBal/blob/master/Images/windows_keyoabrd/UniBal.jpg)
 - Android (Not Available Yet)
 - iPhone (Not Available Yet)
 - Mac (Not Available Yet)
 - Linux (Not Available Yet)
 
+Windows Keyboard Screenshots
+---
+
+![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBal.jpg)
+
+![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBalShift.jpg)
+
+![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBalAltGr.jpg)
+
+![Windows Keyboard](http://projects.junaidbaloch.com/unibal/images/windows/UniBalShiftAltGr.jpg)
 
 Contributors
 ---
