@@ -7,7 +7,7 @@ Keyboard Layouts
 ---
   We have also created a keyboard layout for UniBal.
   
-- Windows ([Available](https://github.com/JeyKeu/UniBal/releases/tag/v1.1))
+- Windows (Available **[Click Here To Download](https://github.com/JeyKeu/UniBal/releases/tag/v1.1)**)
 - Android (Not Available Yet)
 - iPhone (Not Available Yet)
 - Mac (Not Available Yet)
