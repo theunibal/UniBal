@@ -8,10 +8,10 @@ Keyboard Layouts
   We have also created a keyboard layout for UniBal.
   
 - Windows (Available **[Click Here To Download](https://github.com/JeyKeu/UniBal/releases/tag/v1.1)**)
-- Android (Not Available Yet)
-- iPhone (Not Available Yet)
-- Mac (Not Available Yet)
+- Mac (Available **[Click Here To Download](https://drive.google.com/open?id=0B-23fpEqqNX-ckNTcU1CV18xUU0)**)
 - Linux (Not Available Yet)
+- Android (Available **[Click Here To Download](https://drive.google.com/file/d/0B-23fpEqqNX-NzZ5Y19UdDQwekE/view?usp=sharing)**)
+- iPhone (Not Available Yet)
 
 Windows Keyboard Screenshots
 ---
