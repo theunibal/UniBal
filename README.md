@@ -9,7 +9,7 @@ Keyboard Layouts
   
 - Windows (Available **[Click Here To Download](https://github.com/JeyKeu/UniBal/releases/tag/v1.1)**)
 - Mac (Available **[Click Here To Download](https://drive.google.com/open?id=0B-23fpEqqNX-ckNTcU1CV18xUU0)**)
-- Mac (Available **[Click Here For Instructions (Advanced)](https://github.com/theunibal/unibal-linux)**)
+- Linux (Available **[Click Here For Instructions (Advanced)](https://github.com/theunibal/unibal-linux)**)
 - Android (Available **[Click Here To Download](https://drive.google.com/file/d/0B-23fpEqqNX-NzZ5Y19UdDQwekE/view?usp=sharing)**)
 - iPhone (Not Available Yet)
 
