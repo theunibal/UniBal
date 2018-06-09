@@ -3,6 +3,13 @@ UniBal
 
 Univarsal Balochi [UniBal] is as an orthography developed for accurately transcribing and writing Balochi language.
 
+Alphabet
+---
+`A Á B C D Đ Ḓ E É F G Ǵ H I Í J K L M N Ń O Ó P R Ŕ S Ś T Ŧ Ṱ U Ú W Y Z Ź`
+
+`a á b c d đ ḓ e é f g ǵ h i í j k l m n ń o ó p r ŕ s ś t ŧ ṱ u ú w y z ź`
+
+
 Keyboard Layouts
 ---
   We have also created a keyboard layout for UniBal.
